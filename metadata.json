@@ -1,0 +1,8 @@
+{
+  "name": "My Day - Smart Task Manager",
+  "description": "A beautiful, daily task manager with AI-powered natural language task creation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
